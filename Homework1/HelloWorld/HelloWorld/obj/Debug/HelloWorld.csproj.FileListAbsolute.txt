@@ -1,0 +1,1 @@
+C:\github\foundations\Homework1\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
